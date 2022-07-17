@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['62895336282144', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', true],
-['6282140373458', 'Raxcel-MD ⁴⁰⁴-ﾉ [BOT MD]', true]
+['6285719651946', 'kira', true],
+['6285810543376', 'minerva', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -19,7 +19,8 @@ global.APIs = { // API Prefix
   neoxr: 'https://api.neoxr.eu.org',
   amel: 'https://melcanz.com',
   hardianto: 'https://hardianto.xyz',
-  lol: 'https://api.lolhuman.xyz'
+  lol: 'https://api.lolhuman.xyz',
+  Rey: 'https://restapi-1-production-1619.up.railway.app'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -34,19 +35,19 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 kira remake'
-global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
-global.linkig = 'https://www.instagram.com/the.sad.boy01'
+global.WM = 'HalloBot'
+global.linkgc = 'https://chat.whatsapp.com/J6Vr5dMf9zi3uioX37A6gz'
+global.linkig = 'https://chat.whatsapp.com/J6Vr5dMf9zi3uioX37A6gz'
 global.deslink = ''
-global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@the.sad.boy01'
+global.titlink = 'Surga'
+global.bodlink = 'https://chat.whatsapp.com/J6Vr5dMf9zi3uioX37A6gz'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons==========//
-global.dtu = '𝑭𝒐𝒍𝒍𝒐𝒘'
-global.urlnya = "https://www.instagram.com/the.sad.boy01"
+global.dtu = 'Group Bot'
+global.urlnya = "https://chat.whatsapp.com/J6Vr5dMf9zi3uioX37A6gz"
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
